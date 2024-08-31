@@ -1,2 +1,2 @@
 # satydev
-This is my frist Git Repository.
+This is my first Git Repository.
